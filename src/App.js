@@ -15,11 +15,11 @@ function App() {
             <Routes>                                                  npm build
 
                <Route path="/" element={<Home/>}/>
-               <Route path="/login" element={<Login/>}/>
-               <Route path="/delete" element={<Delete/>}/>
-               <Route path="/Delete-Account" element={<Home/>}/>
+               <Route path="/login_mehrab" element={<Login/>}/>
+               <Route path="/delete_mehrab" element={<Delete/>}/>
+               <Route path="/Delete-Account_mehrab" element={<Home/>}/>
                <Route path="/*" element={<Home/>}/>
-               <Route path="/test" element={<Test/>}/>
+               <Route path="/test_mehrab" element={<Test/>}/>
             </Routes>                    
         </section>
       </div>

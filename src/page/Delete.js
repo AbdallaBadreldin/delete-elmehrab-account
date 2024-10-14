@@ -42,7 +42,7 @@ const handleDeleteAccount = async () => {
 
   return (
     <div>
-      <h2>Are you sure to Delete Account "  {auth.currentUser.phoneNumber} " ?</h2>
+      <h2>Are you sure to Delete El Mehrab Account ?"  {auth.currentUser.phoneNumber} " ?</h2>
       <button onClick={handleDeleteAccount}>Delete My Account</button>
 <br/>
 <br/>

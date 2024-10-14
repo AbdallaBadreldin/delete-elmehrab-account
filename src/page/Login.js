@@ -125,10 +125,10 @@ const Login = () => {
 
   return (
     <div>
-      {show && (<div><h2>Phone Authentication</h2>
+      {show && (<div><h2>Phone Authentication Of El Mehrab</h2>
         <form onSubmit={onSignInSubmit}>
           <div>
-            <label>Phone Number</label>
+            <label>Phone Number of El Mehrab</label>
             <input
               type="tel"
               value={phoneNumber}

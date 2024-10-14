@@ -1,6 +1,6 @@
 {
   "homepage": "https://AbdallaBadreldin.github.io/delete-elmehrab-account",
-    "name": "delete-elmehrab-account",
+  "name": "delete-elmehrab-account",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -43,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
   }
 }
