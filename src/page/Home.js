@@ -8,11 +8,11 @@ const Home = () => {
   const navigate = useNavigate();
 
   const handleNavigateToLogin = () => {
-   navigate('/login');
+   navigate('/login_mehrab');
   };
 
   const handleNavigateToLogout = () => {
-    navigate('/delete');
+    navigate('/delete_mehrab');
   };
 
   useEffect(() => {
