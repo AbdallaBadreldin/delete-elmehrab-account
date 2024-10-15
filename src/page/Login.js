@@ -18,7 +18,7 @@ const Login = () => {
 
     if (!user) {
       alert('No user is currently signed in');
-      navigate('/')
+      navigate('/home')
       return;
     }
 
